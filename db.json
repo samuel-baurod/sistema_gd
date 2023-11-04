@@ -1,0 +1,65 @@
+{
+    "usuarios": [
+        { 
+            "id": 1, 
+            "no_folio": 1, 
+            "no_oficio": 1,  
+            "asunto": "Asunto xd", 
+            "no_oficialia": 1, 
+            "fecha_oficio": "12/05/01",
+            "fecha_limite": "12/05/01",
+            "remitente": "12/07/23"
+        },
+        {
+            "id": 2, 
+            "no_folio": 2, 
+            "no_oficio": 2,  
+            "asunto": "Asunto xd", 
+            "no_oficialia": 2, 
+            "fecha_oficio": "13/05/01",
+            "fecha_limite": "13/05/01",
+            "remitente": "13/07/23"
+        },
+        {
+            "id": 3, 
+            "no_folio": 3, 
+            "no_oficio": 3,  
+            "asunto": "Asunto xd", 
+            "no_oficialia": 3, 
+            "fecha_oficio": "13/05/01",
+            "fecha_limite": "13/05/01",
+            "remitente": "13/07/23"
+        },
+        {
+            "id": 4, 
+            "no_folio": 4, 
+            "no_oficio": 4,  
+            "asunto": "Asunto xd", 
+            "no_oficialia": 4, 
+            "fecha_oficio": "13/05/01",
+            "fecha_limite": "13/05/01",
+            "remitente": "13/07/23"
+        },
+        {
+            "id": 5, 
+            "no_folio": 5, 
+            "no_oficio": 5,  
+            "asunto": "Asunto xd", 
+            "no_oficialia": 5, 
+            "fecha_oficio": "13/05/01",
+            "fecha_limite": "13/05/01",
+            "remitente": "13/07/23"
+        },
+        {
+            "id": 6, 
+            "no_folio": 6, 
+            "no_oficio": 6,  
+            "asunto": "Asunto xd", 
+            "no_oficialia": 6, 
+            "fecha_oficio": "13/05/01",
+            "fecha_limite": "13/05/01",
+            "remitente": "13/07/23"
+        }
+    ]
+        
+}

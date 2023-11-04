@@ -1,0 +1,248 @@
+/* Estilos de la página index.html */
+
+
+/* Media queries para tamaños de pantalla mayores a 1024px */ 
+
+body > h1,h2,h3,h4,h5,h6,p {
+    font-family: 'Poppins', sans-serif;
+}
+
+#navbar {
+    display: flex;
+    background-color: #FFF;
+}
+
+#img-navbar {
+    padding: 5px;
+}
+
+main {
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+
+/* Barra lateral de la izquierda */
+#lateral-bar {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 94vh;
+    width: 5%;
+    background-color: #75293D;
+    padding: 8px;
+}
+
+#lateral-bar p {
+    text-align: center;
+}
+
+
+.option-lateralbar {
+    color: #FFF;
+    padding-top: 10px;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.option-lateralbar:hover {
+    color: #FFFAFA;
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: transform 0.3s;
+    justify-content: center;
+    align-items: center;
+}
+
+.option-lateralbar > .bi {
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+    padding-bottom: 3px;
+}
+
+.text-lateralbar {
+    font-size: 10px;
+    display: flex;
+    align-items: center;
+    align-self: center;
+    justify-content: center;
+}
+
+#main-content {
+    display: flex;    
+    flex-direction: column;
+    /* background-color: gray; */
+    background-color: #E3DFDE;
+    width: 95%;
+    flex: 1;
+    flex-direction: row;
+    padding: 10px;
+}
+
+#area-left {
+    flex: 2;
+    background-color: #FFF;
+    border-radius: 10px 0 0 10px;
+    padding: 10px 0px 10px 10px;
+    
+}
+
+#area-right {
+    flex: 1;
+    background-color: #FFF;
+    border-radius: 0 10px 10px 0;
+    padding: 10px 10px 0px 10px;
+    
+}
+
+
+
+
+#subnav-pdf-generados {
+
+    display: flex;
+    border: 1px solid;
+    border-radius: 10px;
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+    background-color: #F6D4DD;
+
+    -webkit-box-shadow: 10px 13px 35px -10px rgba(0,0,0,0.51);
+    -moz-box-shadow: 10px 13px 35px -10px rgba(0,0,0,0.51);
+    box-shadow: 10px 13px 35px -10px rgba(0,0,0,0.51);
+    border: none;
+
+}
+
+#subnav-pdf-asignados {
+
+    display: none;
+    /* display: flex; */
+    border: 1px solid;
+    border-radius: 10px;
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+    background-color: #F6D4DD;
+
+    -webkit-box-shadow: 10px 13px 35px -10px rgba(0,0,0,0.51);
+    -moz-box-shadow: 10px 13px 35px -10px rgba(0,0,0,0.51);
+    box-shadow: 10px 13px 35px -10px rgba(0,0,0,0.51);
+    border: none;
+}
+
+
+
+
+
+
+
+.option-subnav {
+    display: grid;
+    color: #75293D;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+.option-subnav > .bi {
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.option-subnav > p {
+    font-size: 10px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+div.dataTables_wrapper {
+    width: 70%;
+    margin: 0 auto;
+}
+
+
+#ga-option-bar {
+    
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#ga-group-btn {
+    width: 100%;   
+}
+
+/* Margen del lado derecho del grupo de botones de Tickets generados y tickets asignados */
+#ga-group {
+    margin-right: 10px;
+}
+
+/* Margen del lado derecho del grupo de las tablas que estan debajo del datatable */
+#info-table {
+    margin-top: 15px;
+    margin-right: 10px;
+}
+
+
+
+#btn-updatedata {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+
+.bi-inbox-fill:active {
+    color: green;
+}
+
+#example {
+    position: relative;
+    z-index: 1;
+}
+
+#ec_tabla {
+    font-size: 13px;
+    font-weight: bold;
+}
+
+#cont_tabla {
+    font-size: 12px;
+    
+}
+
+#area_tabla {
+    color: green;
+}
+
+#titulo_buzonentrada {
+    color: #75293D;
+    font-weight: bold;
+}
+
+#titulo_predocumento {
+    color: #75293D;
+    
+}
+
+
+
+
+
+
+
+
+
+
