@@ -1,6 +1,0 @@
-{
-    "root": "./",
-    "entry": "index.php",
-    "watch": ["**/*.html", "**/*.js", "**/*.php"],
-    "php": "C:/xampp/php/php.exe"
-  }

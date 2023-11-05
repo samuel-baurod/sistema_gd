@@ -7,7 +7,7 @@
 
     <!-- Icono en la pestaña del navegador -->
     <link rel="shortcut icon" href="/img/icono_sgirpc.ico" />
-    
+
     <!-- Importación del tipo de fuente: Poppins -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -35,16 +35,10 @@
 
   <!-- Script del jQuery -->
   <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
-      
   <!-- Script del bootstrap v5 -->
   <script src="/js/bst/bootstrap.bundle.min.js"></script>
-      
   <!-- Script del datatable.js -->
     <script src="//cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
-
-  <!-- Script del fiveserver -->
-  <script data-id="five-server" src="http://localhost:5500/fiveserver.js"></script>
-
   <!-- Scripts de los archivos de javascript -->
 
   <!-- Script principal -->
@@ -71,14 +65,10 @@
         </section>
 
         <!-- Seccion principal que contiene el área en blanco donde esta la tabla y el pdf -->
-        <section id="main-content">fdsfsdfsfds</section>
+        <section id="main-content">Página Principal</section>
 
       <!-- </div> -->
     </main>
-
-    
-
-
 
   </body>
 </html>
